@@ -1,1 +1,1 @@
-#Lemonade App from Andrios Basics with Jetpack Compose Tutorial
+Lemonade App from Android Basics with Jetpack Compose Tutorial
